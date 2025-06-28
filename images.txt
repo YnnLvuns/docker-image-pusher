@@ -1,1 +1,1 @@
-docker.io/bondjameslv/chatgpt-web-app:1.0
+docker.io/bondjameslv/chatgpt-data-app:1.0
