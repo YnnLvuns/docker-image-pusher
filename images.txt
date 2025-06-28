@@ -1,1 +1,1 @@
-grafana/grafana:10.2.0
+bondjameslv/chatgpt-web-data:1.0
