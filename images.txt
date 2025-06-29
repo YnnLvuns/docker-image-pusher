@@ -1,1 +1,1 @@
-docker.io/bondjameslv/chatgpt-data-app:1.0
+bondjameslv/ai-rag-knowledge-app:1.3
