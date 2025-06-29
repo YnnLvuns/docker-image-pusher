@@ -1,1 +1,1 @@
-bondjameslv/ai-rag-knowledge-app:1.4
+bondjameslv/ai-rag-knowledge-app:1.5
